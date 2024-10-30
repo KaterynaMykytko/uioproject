@@ -10,35 +10,10 @@ h1  {
     text-align: center;
 } 
 
-h2  {
- color:green;
- text-align: center;
-} 
 
 p  {
-color:MediumSeaGreen;
-line-height: 1.6;
-margin: 10px 0;
-
-  .my-button {
-    background-color: #e74c3c; 
-    color: white;
-    padding: 10px 20px;
-    border: 2px solid darkred;
-    border-radius: 8px;
-    font-size: 16px;
-    cursor: pointer;
-
-
-.my-button:hover {
-    background-color: #c0392b;
-    border-color: #a83227;
-}
-} 
-
-p  {
-    color:SlateBlue;
+    color:orangered;
     line-height: 1.6;
     margin: 10px 0;
     } 
-}   
+  
